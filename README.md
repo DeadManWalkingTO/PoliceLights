@@ -34,7 +34,7 @@
 
 ## Χαρακτηριστικά / Features
 
-Police Lights.
+Police Lights | Free Application
 
 Η χρήση της εφαρμογής:
 * Δωρεάν
