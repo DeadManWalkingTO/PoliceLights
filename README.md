@@ -17,7 +17,7 @@
 [![GitHub license](https://img.shields.io/github/license/DeadManWalkingTO/PoliceLights.svg)](./LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](./README.md)
 
-> PoliceLights
+> PoliceLights | Free Application
 
 Η εφαρμογή αυτή δημιουργήθηκε με σκοπό τις φάρσες και την διασκέδαση.
 
