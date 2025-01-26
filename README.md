@@ -51,7 +51,7 @@ Police Lights | Free Application
 
 Λήψη από [Amazon Store](https://www.amazon.com/gp/product/B0CLKTTPDX)
 
-Λήψη από [Github](https://raw.githubusercontent.com/DeadManWalkingTO/SOSbuttonGR/main/PoliceLights.apk)
+Λήψη από [Github](https://raw.githubusercontent.com/DeadManWalkingTO/PoliceLights/main/PoliceLights.apk)
 
 ## Λειτουργία της εφαρμγής / Operation of the application
 
