@@ -46,7 +46,7 @@ Police Lights | Free Application
 
 ## Λήψη / Download
 
-Λήψη από [Google Store](https://play.google.com/store/apps/details?id=appinventor.ai_i_g_myridakis.PoliceLights)
+Λήψη από [Google Store](https://play.google.com/store/apps/details?id=appinventor.ai_i_g_myridakis.PoliceLights){:target="_blank"}
 
 Λήψη από [Amazon Store](https://www.amazon.com/gp/product/B0DV51GQGK)
 
