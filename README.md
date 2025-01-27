@@ -49,7 +49,7 @@ Police Lights | Free Application
 
 Λήψη από [Google Store](https://play.google.com/store/apps/details?id=appinventor.ai_i_g_myridakis.PoliceLights)
 
-Λήψη από [Amazon Store](https://www.amazon.com/gp/product/B0CLKTTPDX)
+Λήψη από [Amazon Store](https://www.amazon.com/gp/product/B0DV51GQGK)
 
 Λήψη από [Github](https://raw.githubusercontent.com/DeadManWalkingTO/PoliceLights/main/PoliceLights.apk)
 
